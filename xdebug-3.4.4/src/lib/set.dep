@@ -1,0 +1,3 @@
+src/lib/set.lo: \
+  /Users/main/Docker/my-awesome-project/xdebug-3.4.4/src/lib/set.c \
+  /Users/main/Docker/my-awesome-project/xdebug-3.4.4/src/lib/set.h

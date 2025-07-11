@@ -1,0 +1,4 @@
+src/lib/hash.lo: \
+  /Users/main/Docker/my-awesome-project/xdebug-3.4.4/src/lib/hash.c \
+  /Users/main/Docker/my-awesome-project/xdebug-3.4.4/src/lib/hash.h \
+  /Users/main/Docker/my-awesome-project/xdebug-3.4.4/src/lib/llist.h
