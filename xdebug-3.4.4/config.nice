@@ -1,7 +1,0 @@
-#! /bin/sh
-#
-# Created by configure
-
-'./configure' \
-'--with-php-config=/opt/homebrew/Cellar/php/8.3.8/bin/php-config' \
-"$@"

@@ -1,3 +1,0 @@
-src/lib/llist.lo: \
-  /Users/main/Docker/my-awesome-project/xdebug-3.4.4/src/lib/llist.c \
-  /Users/main/Docker/my-awesome-project/xdebug-3.4.4/src/lib/llist.h
